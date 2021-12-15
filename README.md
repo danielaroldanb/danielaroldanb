@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h4 align="center">In this GitHub profile you will find the different projects I have worked on. I enjoy learning new languages and frameworks and doing personal projects to apply what I learn. I am a full-Stack Developer and I also have a MS in Chemical Engineering and Sustainable Processes. This background has allowed me to build skills for problem solving, analytical thinking and project work.</h4>
 
-</br>
 
 <h3 align="left">Skills:</h3>
 <p align="center"> HTML | CSS | Javascript | React | Redux |  Node JS | Express | PostgreSQL |  MongoDB | </p> </br>
@@ -17,7 +16,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></p>
  
 
-</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniela-rold%c3%a1n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniela-rold%c3%a1n/" height="30" width="40" /></a>
